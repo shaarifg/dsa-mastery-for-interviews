@@ -50,15 +50,15 @@ String[] words = s.split(" ");
 String joined = String.join("-", words);
 
 📌 2. Key Techniques & Patterns
-Pattern	When to Use	Time Complexity
-Two Pointers	Reverse, Palindrome Check	O(n)
-Sliding Window	Longest Substring Without Repeating Characters	O(n)
-Prefix Hashing	Count substring occurrences efficiently	O(n)
-KMP Algorithm (Pattern Matching)	Fast substring search	O(n+m)
-Z Algorithm	Pattern Matching	O(n+m)
-Rabin-Karp Algorithm	Substring Matching (Rolling Hash)	O(n+m)
-Manacher’s Algorithm	Find Longest Palindromic Substring	O(n)
-Trie (Prefix Tree)	Auto-complete, Dictionary Matching	O(n)
+| Pattern |	When to Use |	Time Complexity |
+| Two Pointers |	Reverse, Palindrome Check |	O(n)
+| Sliding Window |	Longest Substring Without Repeating Characters |	O(n)
+| Prefix Hashing |	Count substring occurrences efficiently	 |O(n)
+| KMP Algorithm (Pattern Matching) |	Fast substring search |	O(n+m)
+| Z Algorithm |	Pattern Matching |	O(n+m)
+| Rabin-Karp Algorithm |	Substring Matching (Rolling Hash) |	O(n+m)
+| Manacher’s Algorithm |	Find Longest Palindromic Substring |	O(n)
+| Trie (Prefix Tree) |	Auto-complete, Dictionary Matching |	O(n)
 
 
 Category	LeetCode Problems
