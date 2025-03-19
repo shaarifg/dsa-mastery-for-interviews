@@ -51,6 +51,7 @@ String joined = String.join("-", words);
 
 📌 2. Key Techniques & Patterns
 | Pattern |	When to Use |	Time Complexity |
+| -------- | --------------- | ------- |
 | Two Pointers |	Reverse, Palindrome Check |	O(n)
 | Sliding Window |	Longest Substring Without Repeating Characters |	O(n)
 | Prefix Hashing |	Count substring occurrences efficiently	 |O(n)
